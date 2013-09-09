@@ -1,4 +1,4 @@
-f9180e2b9850931494ceeaead14c16aa *DESCRIPTION
+14412e83a9e8870d124ca176c399ea8c *DESCRIPTION
 55c0127553b0f8c1c8167a4f50716fd9 *NAMESPACE
 64a4f253db5dc2bfc9a1e992f56bdf0d *R/eila.R
 c51f7c0b10f64a85f8076eac63de6d3e *data/ceuchdyri.rda
@@ -6,4 +6,4 @@ e23196c543cfcda01507ef4ed91fdf0a *data/ceuyri.rda
 7ee7a8e39fa9aad365d9730fb7f6cc5f *data/datalist
 b893d7726dc444b97536fe937f39f69f *man/ceuchdyri.Rd
 64a068288d14519456e408344a6280a1 *man/ceuyri.Rd
-436c3b3e5cd25da98ef1d44dca62ae66 *man/eila.Rd
+dfe96989a675951f552c44bc24cb221a *man/eila.Rd

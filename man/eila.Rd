@@ -71,7 +71,7 @@ eila(admixed, position, anc1, anc2, anc3 = NULL, lambda = 15, rng.seed = 1727199
   Inference of Local Ancestry. Bioinformatics. doi: 10.1093/bioinformatics/btt488
 }
 
-\author{James J. Yang, Jia Li, and Anne Buu}
+\author{James J. Yang, Jia Li, Anne Buu, and L. Keoki Williams}
 
 \seealso{set.seed}
 
